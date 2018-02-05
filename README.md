@@ -650,7 +650,7 @@
     |        | GET|HEAD  | crud/{crud}/edit | crud.edit    | App\Http\Controllers\CRUDController@edit    | web          |
     If you are curious how resource controller works behind the scenes, then this is your answer.
 
-# Github: https://github.com/KrunalLathiya/Laravel54
+# Github: https://github.com/TECHIES-HUB1/Laravel-5.4-Crud-Example-From-Scratch_/tree/master/Laravel54-master
  
 
 ### Steps to use Github code
