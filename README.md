@@ -12,6 +12,8 @@
         XML PHP Extension
         Composer
         XAMPP SERVER
+		
+		You can get this downloaded/installed on your workstation.
 
 
 ## Step 1: Create a Laravel project
