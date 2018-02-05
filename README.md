@@ -17,7 +17,7 @@
 ## Step 1: Create a Laravel project
  ### Type following command in your terminal to create a project.
 
-    composer create-project --prefer-dist laravel/laravel Laravel54
+    composer create-project --prefer-dist laravel/laravel ProjectName
     
  ### It will take 2 minutes to install a brand new Laravel Framework
 
